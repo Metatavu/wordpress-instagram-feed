@@ -1,0 +1,15 @@
+{
+	"name" : "wordpress-instagram-feed",
+	"description" : "Wordpress plugin for instagram feed",
+	"keywords" : [
+		"wordpress",
+		"plugin"
+	],
+	"license" : "AGPL-3.0",
+	"type" : "wordpress-plugin",
+	"require" : {
+		"guzzle/guzzle": "~3.9"
+	},
+	"repositories" : [
+	]
+}
